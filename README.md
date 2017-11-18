@@ -1,1 +1,3 @@
-this is a demo repository to learn git
+Demo repository to learn git
+
+JB
